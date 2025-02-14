@@ -20,8 +20,11 @@
 
 
 ### 結果展示
-![架構圖](https://github.com/tt5888/Gemini-Meeting-Minutes/blob/main/Architecture%20diagram.png?raw=true)
+#### 逐字稿
+![逐字稿](https://github.com/tt5888/Gemini-Meeting-Minutes/blob/main/Dr.%20Chen_transcript.png?raw=true)
 
+#### 會議摘要
+![會議摘要](https://github.com/tt5888/Gemini-Meeting-Minutes/blob/main/Dr.%20Chen_summary.png?raw=true)
 
 ## Reference：
 [Transcript an audio file with Gemini 1.5 Pro](https://cloud.google.com/vertex-ai/generative-ai/docs/samples/generativeaionvertexai-gemini-audio-transcription#generativeaionvertexai_gemini_audio_transcription-python)
